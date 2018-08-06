@@ -1,0 +1,1 @@
+http://www.javacodegeeks.com/2011/12/simplifying-data-access-layer-with.html
